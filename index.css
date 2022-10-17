@@ -1,0 +1,32 @@
+.main{
+    text-align: center;
+}
+#text{
+    text-align: center;
+    background-color: chartreuse;
+}
+.one{
+    text-align: center;
+}
+.two{
+    text-align: center;
+    
+}
+.thr{
+    text-align: center;
+    
+}
+#texts{
+    text-align: center;
+    background-color:burlywood
+}
+body{
+    border:20px solid red;
+    padding:20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    width:300px;
+}
+#type{
+    background-color: blue;
+}
